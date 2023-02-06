@@ -1,3 +1,2 @@
-# Data-Exploration
-Projet portant sur l'exploration des données massives en Finance
+Voici le lien permettant de téléchager le base de données:
 https://www.kaggle.com/datasets/alexuniversite/credit-card-fraud-projet-data-exploration
